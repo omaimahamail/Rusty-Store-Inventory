@@ -43,15 +43,15 @@ Provide ongoing support and updates.
 RUST
 
 ## Installation
-To install Rusty Store on your local machine, follow these steps:
+To install Rusty Store Inventory on your local machine, follow these steps:
 
 Clone the Repository:
 ```
-git clone https://github.com/your_username/rusty-store.git
+git clone https://github.com/your_username/Rusty-Store-Inventory.git
 ```
 Navigate to the Project Directory:
 ```
-cd rusty-store
+cd Rusty-Store-Inventory
 ```
 Build the Project:
 ```
